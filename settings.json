@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ImazineSMP.aternos.me",
-    "port": 24849,
+    "ip": "ImazineMC.aternos.me",
+    "port": 29778,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -32,8 +32,6 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Enjoy the Imazine SMP!",
-        "This is Best Private Economy Smp"
       ]
     },
     "chat-log": true,
